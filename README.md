@@ -3,7 +3,7 @@ Caffeecoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/caffeecoin-project/caffeecoin.svg?branch=master)](https://travis-ci.org/caffeecoin-project/caffeecoin)
 
-https://caffeecoin.org
+https://caffeecoin.com
 
 What is Caffeecoin?
 ----------------
