@@ -121,7 +121,7 @@ public:
 
         // Note that of those with the service bits flag, most only support a subset of possible options
         vSeeds.push_back(CDNSSeedData("139.162.205.115", "139.162.205.115", true));
-        //vSeeds.push_back(CDNSSeedData("thrasher.io", "dnsseed.thrasher.io", true));
+        vSeeds.push_back(CDNSSeedData("173.230.137.166", "173.230.137.166", true));
         //vSeeds.push_back(CDNSSeedData("caffeecointools.com", "dnsseed.caffeecointools.com"));
         //vSeeds.push_back(CDNSSeedData("caffeecoinpool.org", "dnsseed.caffeecoinpool.org"));
         //vSeeds.push_back(CDNSSeedData("koin-project.com", "dnsseed.koin-project.com"));
