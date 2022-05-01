@@ -8,14 +8,14 @@ https://caffeecoin.com
 What is Caffeecoin?
 ----------------
 
-Caffeecoin is an experimental digital currency that enables instant payments to
+Caffeecoin is a digital currency that enables instant payments to
 anyone, anywhere in the world. Caffeecoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. Caffeecoin Core is the name of open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Caffeecoin Core software, see [https://caffeecoin.org](https://caffeecoin.org).
+the Caffeecoin Core software, see [https://caffeecoin.com](https://caffeecoin.com).
 
 License
 -------
